@@ -1,0 +1,4 @@
+**/package_modules
+**/node_modules
+build/
+*.config.js
